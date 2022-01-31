@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**jcvanbrunt/JCVanBrunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗 Experienced Project Controls Engineer with a demonstrated history of working in the construction industry.
 
-Here are some ideas to get you started:
+I have a range of experience across industries from:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻Management consulting (FTI Consulting, litigation)
+- 🛒 Retail (Costco, treasury department)
+- 👷‍♂️ Construction (Katerra, technology startup backed by SoftBank)
+- 📊 Construction Business Intelligence (Schuff Steel, a top steel erector in the US)
+
+I’ve specialized in data integration & reporting and have developed skills in these areas:
+
+- 📊 Power BI modeling and reporting
+- 🏗 Scheduling in Primavera P6
+- 🖥 SharePoint site creation
+- 📈 Enterprise data integration for acquisitions
+
+Strong finance & operations professional with a Bachelor of Business Administration focused in Finance and Accounting from the University of Washington.
