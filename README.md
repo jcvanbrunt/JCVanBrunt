@@ -18,7 +18,7 @@ I have a range of experience across industries from:
 
 I’ve specialized in data integration & reporting and have developed skills in these areas:
 
-- 📊 Power BI modeling and reporting
+- 📊 Power BI modeling and reporting (Power Query and DAX)
 - 🏗 Scheduling in Primavera P6
 - 🖥 SharePoint site creation
 - 📈 Enterprise data integration for acquisitions
