@@ -11,7 +11,7 @@ I have a range of experience across industries from:
 - 🛒 Retail (Costco, treasury department)
 - 👷‍♂️ Construction (Katerra, technology startup backed by SoftBank)
 - 📊 Construction Business Intelligence (Schuff Steel, a top steel erector in the US)
-- 📈 Construction Finance & Operations (Willmeng Construction, one of the largest privately-held general contractors in Arizona)
+- 📈 Construction Finance & Operations (Willmeng Construction, a top general contractor from Arizona)
 
 
 ### Skills
