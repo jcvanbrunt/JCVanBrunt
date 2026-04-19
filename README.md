@@ -7,9 +7,9 @@
 
 I have a range of experience across industries from:
 
-- 👨‍💻Management consulting (FTI Consulting, litigation)
+- 👨‍💻Management consulting (FTI Consulting, construction litigation)
 - 🛒 Retail (Costco, treasury department)
-- 👷‍♂️ Construction (Katerra, technology startup backed by SoftBank)
+- 👷‍♂️ Construction (Katerra, construction technology startup backed by SoftBank)
 - 📊 Construction Business Intelligence (Schuff Steel, a top steel erector in the US)
 - 📈 Construction Finance & Operations (Willmeng Construction, a top general contractor from Arizona)
 
