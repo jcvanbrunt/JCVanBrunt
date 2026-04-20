@@ -9,7 +9,7 @@ I have a range of experience across industries from:
 
 - 👨‍💻Management consulting (FTI Consulting, construction litigation)
 - 🛒 Retail (Costco, treasury department)
-- 👷‍♂️ Construction (Katerra, construction technology startup backed by SoftBank)
+- 👷‍♂️ Construction Technology (Katerra, construction technology startup backed by SoftBank)
 - 📊 Construction Business Intelligence (Schuff Steel, a top steel erector in the US)
 - 📈 Construction Finance & Operations (Willmeng Construction, a top general contractor from Arizona)
 
@@ -23,5 +23,6 @@ I’ve specialized in data integration & reporting and have developed skills in 
 - 🖥 SharePoint site creation
 - 📈 Enterprise data integration for acquisitions
 - 💰 Financial planning & analysis
+- 🤖 AI prototyping, planning, and learning
 
 Strong finance & operations professional with a Bachelor of Business Administration focused in Finance and Accounting from the University of Washington.
