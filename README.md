@@ -1,4 +1,5 @@
-### Hi there 👋
+### JC VanBrunt 🏗️📊
+---
 
 🏗 Experienced Project Controls Engineer with a demonstrated history of working in the construction industry.
 
